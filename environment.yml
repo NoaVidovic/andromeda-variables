@@ -185,4 +185,3 @@ dependencies:
   - zstd=1.5.2
   - pip:
     - gaiadr3-zeropoint==0.0.4
-prefix: C:\Users\atomi\anaconda3\envs\venv-andromeda
